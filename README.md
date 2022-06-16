@@ -1,6 +1,7 @@
 # 整合nacos-spring-project 实现 spring-cloud-alibaba的单条配置刷新
 
 ## 利用SpringCloud `@RefreshScope`实现
+nacos 配置
 
 ```yaml
 foo:
@@ -27,7 +28,7 @@ foo_refreshed
 ```
 
 ## 利用nacos-spring-project 实现
-
+nacos 配置
 ```yaml
 foo:
   nacos:
